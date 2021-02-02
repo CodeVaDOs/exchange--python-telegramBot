@@ -5,3 +5,4 @@ __pycache__
 .handler-saves
 
 /build
+/test
